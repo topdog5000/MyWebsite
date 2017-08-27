@@ -1,0 +1,40 @@
+﻿html {
+    background-color: #99ccff;
+}
+
+
+body {
+    font-family: Trebuchet MS;
+   
+}
+
+nav {
+    background-color: white;
+    text-align: center;
+
+}
+
+#nav_background {
+    background-color: white;
+    padding: 25px;
+}
+
+#main_heading {
+    margin-left: 23%;
+    margin-right: 23%;
+    padding-top: 10px;
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    padding: 5px;
+    background-color: white;
+    
+}
+
+    a:hover {
+        color: red;
+    }
